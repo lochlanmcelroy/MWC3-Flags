@@ -8,6 +8,7 @@ flag{statue_of_liberty}
 “Strange Address” Solution: Search the BSSID on https://wigle.net to find the location, and grab the address.
 flag{38_S_La_Grange_Rd}
 
+
  “DEER!!!!” Solution: Steg data encoded in base 64, extract it and reverse the encoding.
 flag{I_10v3_de3r!!_GeQs8HKyM0sV9xQUaA7k}
 
@@ -15,6 +16,7 @@ flag{I_10v3_de3r!!_GeQs8HKyM0sV9xQUaA7k}
 “Cryptic”  Solution: Search the poem on the library of babel website and find the page and book name. Flag{223_d,kvlgdix} 
  “Top Secret” Part 1: Rail Fence Cipher (3 rails) flag{n0T_s0_sEcr1t
  Part 2: Bacon Cipher _when_you_have
+
 
 Part 3: rot13 _tH3_wh0Le_Int3rNeT}
  Overall: flag{n0T_s0_sEcr1t_when_you_have_tH3_wh0Le_Int3rNeT} 
