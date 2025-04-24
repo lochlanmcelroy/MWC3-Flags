@@ -1,20 +1,5 @@
 
-Flags for MWC3 challenges that I made
+Challenges for MWC3 I authored.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-just kidding, find them for real!
+:)
